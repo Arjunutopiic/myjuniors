@@ -30,6 +30,9 @@
 
 		<!-- Custom JS -->
 		<script src="assets/js/script.js"></script>
+
+		<!-- whiteboar Js -->
+		<script src="assets/js/wbapp.js"></script>
 		
 		<!-- Calendar Js -->
 		<script src="assets/plugins/simple-calendar/jquery.simple-calendar.js"></script>

@@ -1,5 +1,11 @@
 <?php
-session_start();
+session_start();  
+ if(isset($_POST["sub"]))  
+ {  
+      $_SESSION["name"] = $_POST["name"];  
+      $_SESSION['last_login_timestamp'] = time();  
+      header("location:admin.php");       
+ } 
 // Change this to your connection info.
 $DATABASE_HOST = 'localhost';
 $DATABASE_USER = 'root';

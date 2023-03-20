@@ -1,4 +1,11 @@
 <?php
+session_start();  
+if(isset($_POST["sub"]))  
+{  
+     $_SESSION["name"] = $_POST["name"];  
+     $_SESSION['last_login_timestamp'] = time();  
+     header("location:index.php");       
+} 
 include('includes/header.php');
 include('includes/navbar.php');
 include('includes/sidebar.php');

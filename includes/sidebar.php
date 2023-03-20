@@ -1,18 +1,18 @@
 <!-- Sidebar -->
 <div class="sidebar" id="sidebar">
-                <div class="sidebar-inner slimscroll">
-					<div id="sidebar-menu" class="sidebar-menu">
-						<ul>
-							<li class="menu-title"> 
-								<span>Main Menu</span>
-							</li>
-							<li>
-								<a href="admin.php"><i class=" fas feather-grid"></i> <span>Dashboard</span></a>
-							</li>
-							<li> 
-								<a href="event.php"><i class="fas fa-calendar-day"></i> <span>Schedule</span></a>
-							</li>
-							<!-- <li class="submenu">
+	<div class="sidebar-inner slimscroll">
+		<div id="sidebar-menu" class="sidebar-menu">
+			<ul>
+				<li class="menu-title">
+					<span>Main Menu</span>
+				</li>
+				<li>
+					<a href="admin.php"><i class=" fas feather-grid"></i> <span>Dashboard</span></a>
+				</li>
+				<li>
+					<a href="event.php"><i class="fas fa-calendar-day"></i> <span>Schedule</span></a>
+				</li>
+				<!-- <li class="submenu">
 								<a href="#"><i class="fas fa-graduation-cap"></i> <span> Students</span> <span class="menu-arrow"></span></a>
 								<ul>
 									<li><a href="students.html">Student List</a></li>
@@ -81,26 +81,26 @@
 							<li> 
 								<a href="exam.html"><i class="fas fa-clipboard-list"></i> <span>Exam list</span></a>
 							</li> -->
-							<!-- <li> 
+				<!-- <li> 
 								<a href="event.html"><i class="fas fa-calendar-day"></i> <span>Events</span></a>
 							</li> -->
-							<!-- <li> 
+				<!-- <li> 
 								<a href="time-table.html"><i class="fas fa-table"></i> <span>Time Table</span></a>
 							</li>
 							<li> 
 								<a href="library.html"><i class="fas fa-book"></i> <span>Library</span></a>
 							</li>
 							<li class="submenu">
-                                <a href="#"><i class="fa fa-newspaper"></i> <span> Blogs</span>
-                                    <span class="menu-arrow"></span>
-                                </a>
-                                <ul>
-                                    <li><a href="blog.html">All Blogs</a></li>
-                                    <li><a href="add-blog.html">Add Blog</a></li>
-                                    <li><a href="edit-blog.html">Edit Blog</a></li>
-                                    
-                                </ul>
-                            </li>
+								<a href="#"><i class="fa fa-newspaper"></i> <span> Blogs</span>
+									<span class="menu-arrow"></span>
+								</a>
+								<ul>
+									<li><a href="blog.html">All Blogs</a></li>
+									<li><a href="add-blog.html">Add Blog</a></li>
+									<li><a href="edit-blog.html">Edit Blog</a></li>
+									
+								</ul>
+							</li>
 							<li> 
 								<a href="settings.html"><i class="fas fa-cog"></i> <span>Settings</span></a>
 							</li>
@@ -138,55 +138,55 @@
 								<span>UI Interface</span>
 							</li>
 							<li class="submenu">
-                                <a href="#"><i class="fab fa-get-pocket"></i> <span>Base UI </span> <span class="menu-arrow"></span></a>
-                                <ul>
-                                    <li><a href="alerts.html">Alerts</a></li>                                    
-                                    <li><a href="accordions.html">Accordions</a></li>
-                                    <li><a href="avatar.html">Avatar</a></li> 
-                                    <li><a href="badges.html">Badges</a></li>
-                                    <li><a href="buttons.html">Buttons</a></li>   
-                                    <li><a href="buttongroup.html">Button Group</a></li>                                  
-                                    <li><a href="breadcrumbs.html">Breadcrumb</a></li>
-                                    <li><a href="cards.html">Cards</a></li>
-                                    <li><a href="carousel.html">Carousel</a></li>                                   
-                                    <li><a href="dropdowns.html">Dropdowns</a></li>
-                                    <li><a href="grid.html">Grid</a></li>
-                                    <li><a href="images.html">Images</a></li>
-                                    <li><a href="lightbox.html">Lightbox</a></li>
-                                    <li><a href="media.html">Media</a></li>                              
-                                    <li><a href="modal.html">Modals</a></li>
-                                    <li><a href="offcanvas.html">Offcanvas</a></li>
-                                    <li><a href="pagination.html">Pagination</a></li>
-                                    <li><a href="popover.html">Popover</a></li>                                    
-                                    <li><a href="progress.html">Progress Bars</a></li>
-                                    <li><a href="placeholders.html">Placeholders</a></li>
-                                    <li><a href="rangeslider.html">Range Slider</a></li>                                    
-                                    <li><a href="spinners.html">Spinner</a></li>
-                                    <li><a href="sweetalerts.html">Sweet Alerts</a></li>
-                                    <li><a href="tab.html">Tabs</a></li>
-                                    <li><a href="toastr.html">Toasts</a></li>
-                                    <li><a href="tooltip.html">Tooltip</a></li>
-                                    <li><a href="typography.html">Typography</a></li>
-                                    <li><a href="video.html">Video</a></li>
-                                </ul>
-                            </li>
-                            <li class="submenu">
-                                <a href="#"><i data-feather="box"></i> <span>Elements </span> <span class="menu-arrow"></span></a>
-                                <ul>
-                                    <li><a href="ribbon.html">Ribbon</a></li>
-                                    <li><a href="clipboard.html">Clipboard</a></li>
-                                    <li><a href="drag-drop.html">Drag & Drop</a></li>
-                                    <li><a href="rating.html">Rating</a></li>
-                                    <li><a href="text-editor.html">Text Editor</a></li>
-                                    <li><a href="counter.html">Counter</a></li>
-                                    <li><a href="scrollbar.html">Scrollbar</a></li>
-                                    <li><a href="notification.html">Notification</a></li>
-                                    <li><a href="stickynote.html">Sticky Note</a></li>
-                                    <li><a href="timeline.html">Timeline</a></li>
-                                    <li><a href="horizontal-timeline.html">Horizontal Timeline</a></li>
-                                    <li><a href="form-wizard.html">Form Wizard</a></li>
-                                </ul>
-                            </li>
+								<a href="#"><i class="fab fa-get-pocket"></i> <span>Base UI </span> <span class="menu-arrow"></span></a>
+								<ul>
+									<li><a href="alerts.html">Alerts</a></li>                                    
+									<li><a href="accordions.html">Accordions</a></li>
+									<li><a href="avatar.html">Avatar</a></li> 
+									<li><a href="badges.html">Badges</a></li>
+									<li><a href="buttons.html">Buttons</a></li>   
+									<li><a href="buttongroup.html">Button Group</a></li>                                  
+									<li><a href="breadcrumbs.html">Breadcrumb</a></li>
+									<li><a href="cards.html">Cards</a></li>
+									<li><a href="carousel.html">Carousel</a></li>                                   
+									<li><a href="dropdowns.html">Dropdowns</a></li>
+									<li><a href="grid.html">Grid</a></li>
+									<li><a href="images.html">Images</a></li>
+									<li><a href="lightbox.html">Lightbox</a></li>
+									<li><a href="media.html">Media</a></li>                              
+									<li><a href="modal.html">Modals</a></li>
+									<li><a href="offcanvas.html">Offcanvas</a></li>
+									<li><a href="pagination.html">Pagination</a></li>
+									<li><a href="popover.html">Popover</a></li>                                    
+									<li><a href="progress.html">Progress Bars</a></li>
+									<li><a href="placeholders.html">Placeholders</a></li>
+									<li><a href="rangeslider.html">Range Slider</a></li>                                    
+									<li><a href="spinners.html">Spinner</a></li>
+									<li><a href="sweetalerts.html">Sweet Alerts</a></li>
+									<li><a href="tab.html">Tabs</a></li>
+									<li><a href="toastr.html">Toasts</a></li>
+									<li><a href="tooltip.html">Tooltip</a></li>
+									<li><a href="typography.html">Typography</a></li>
+									<li><a href="video.html">Video</a></li>
+								</ul>
+							</li>
+							<li class="submenu">
+								<a href="#"><i data-feather="box"></i> <span>Elements </span> <span class="menu-arrow"></span></a>
+								<ul>
+									<li><a href="ribbon.html">Ribbon</a></li>
+									<li><a href="clipboard.html">Clipboard</a></li>
+									<li><a href="drag-drop.html">Drag & Drop</a></li>
+									<li><a href="rating.html">Rating</a></li>
+									<li><a href="text-editor.html">Text Editor</a></li>
+									<li><a href="counter.html">Counter</a></li>
+									<li><a href="scrollbar.html">Scrollbar</a></li>
+									<li><a href="notification.html">Notification</a></li>
+									<li><a href="stickynote.html">Sticky Note</a></li>
+									<li><a href="timeline.html">Timeline</a></li>
+									<li><a href="horizontal-timeline.html">Horizontal Timeline</a></li>
+									<li><a href="form-wizard.html">Form Wizard</a></li>
+								</ul>
+							</li>
 							<li class="submenu">
 								<a href="#"><i data-feather="bar-chart-2"></i> <span> Charts </span> <span class="menu-arrow"></span></a>
 								<ul>
@@ -231,161 +231,234 @@
 									<li><a href="data-tables.html">Data Table </a></li>
 								</ul>
 							</li> -->
-							<li class="submenu">
-								<a href="javascript:void(0);"><i class="fas fa-code"></i> <span>Grades</span> <span class="menu-arrow"></span></a>
-								<ul>
-									<li class="submenu">
-										<a href="javascript:void(0);"> <span>Grade 1</span> <span class="menu-arrow"></span></a>
-										<ul>
-										 <li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 1</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-											<li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 2</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-											<li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 3</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-										</ul>
-									</li>
-									<li class="submenu">
-										<a href="javascript:void(0);"> <span>Grade 2</span> <span class="menu-arrow"></span></a>
-										<ul>
-										 <li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 1</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-											<li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 2</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-											<li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 3</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-										</ul>
-									</li>
-									<li class="submenu">
-										<a href="javascript:void(0);"> <span>Grade 3</span> <span class="menu-arrow"></span></a>
-										<ul>
-										 <li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 1</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-											<li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 2</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-											<li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 3</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-										</ul>
-									</li>
-									<li class="submenu">
-										<a href="javascript:void(0);"> <span>Grade 4</span> <span class="menu-arrow"></span></a>
-										<ul>
-										 <li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 1</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-											<li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 2</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-											<li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 3</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-										</ul>
-									</li>
-									<li class="submenu">
-										<a href="javascript:void(0);"> <span>Grade 5</span> <span class="menu-arrow"></span></a>
-										<ul>
-										 <li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 1</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-											<li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 2</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-											<li class="submenu">
-												<a href="javascript:void(0);"> <span>Level 3</span> <span class="menu-arrow"></span></a>
-												<ul>
-													<li><a href="javascript:void(0);">Topic 1</a></li>
-													<li><a href="javascript:void(0);">Topic 2</a></li>
-													<li><a href="javascript:void(0);">Topic 3</a></li>
-												</ul>
-											</li>
-										</ul>
-									</li>
-								</ul>
-							</li>
-							<li> 
-								<a href="resources.php"><i class="fas fa-file"></i> <span>Resource Center</span></a>
-							</li>
-						</ul>
-					</div>
-                </div>
-            </div>
-			<!-- /Sidebar -->
+				<li class="submenu">
+					<a href="javascript:void(0);"><i class="fas fa-code"></i> <span>Grades</span> <span
+							class="menu-arrow"></span></a>
+					<ul>
+						<li class="submenu">
+							<a href="javascript:void(0);"> <span>Grade 1</span> <span class="menu-arrow"></span></a>
+							<ul>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 1</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade1_topic_1_l1.php">Topic 1</a></li>
+										<li><a href="grade1_topic_2_l1.php">Topic 2</a></li>
+										<li><a href="grade1_topic_3_l1.php">Topic 3</a></li>
+									</ul>
+								</li>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 2</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade1_topic_1_l2.php">Topic 1</a></li>
+										<li><a href="grade1_topic_2_l2.php">Topic 2</a></li>
+										<li><a href="grade1_topic_3_l2.php">Topic 3</a></li>
+									</ul>
+								</li>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 3</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade1_topic_1_l3.php">Topic 1</a></li>
+										<li><a href="grade1_topic_2_l3.php">Topic 2</a></li>
+										<li><a href="grade1_topic_3_l3.php">Topic 3</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li class="submenu">
+							<a href="javascript:void(0);"> <span>Grade 2</span> <span class="menu-arrow"></span></a>
+							<ul>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 1</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade2_topic_1_l1.php">Topic 1</a></li>
+										<li><a href="grade2_topic_2_l1.php">Topic 2</a></li>
+										<li><a href="grade2_topic_3_l1.php">Topic 3</a></li>
+									</ul>
+								</li>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 2</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade2_topic_1_l2.php">Topic 1</a></li>
+										<li><a href="grade2_topic_2_l2.php">Topic 2</a></li>
+										<li><a href="grade2_topic_3_l2.php">Topic 3</a></li>
+									</ul>
+								</li>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 3</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade2_topic_1_l3.php">Topic 1</a></li>
+										<li><a href="grade2_topic_2_l3.php">Topic 2</a></li>
+										<li><a href="grade2_topic_3_l3.php">Topic 3</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li class="submenu">
+							<a href="javascript:void(0);"> <span>Grade 3</span> <span class="menu-arrow"></span></a>
+							<ul>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 1</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade3_topic_1_l1.php">Topic 1</a></li>
+										<li><a href="grade3_topic_2_l1.php">Topic 2</a></li>
+										<li><a href="grade3_topic_3_l1.php">Topic 3</a></li>
+									</ul>
+								</li>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 2</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade3_topic_1_l2.php">Topic 1</a></li>
+										<li><a href="grade3_topic_2_l2.php">Topic 2</a></li>
+										<li><a href="grade3_topic_3_l2.php">Topic 3</a></li>
+									</ul>
+								</li>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 3</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade3_topic_1_l3.php">Topic 1</a></li>
+										<li><a href="grade3_topic_2_l3.php">Topic 2</a></li>
+										<li><a href="grade3_topic_3_l3.php">Topic 3</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li class="submenu">
+							<a href="javascript:void(0);"> <span>Grade 4</span> <span class="menu-arrow"></span></a>
+							<ul>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 1</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade4_topic_1_l1.php">Topic 1</a></li>
+										<li><a href="grade4_topic_2_l1.php">Topic 2</a></li>
+										<li><a href="grade4_topic_3_l1.php">Topic 3</a></li>
+									</ul>
+								</li>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 2</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade4_topic_1_l2.php">Topic 1</a></li>
+										<li><a href="grade4_topic_2_l2.php">Topic 2</a></li>
+										<li><a href="grade4_topic_3_l2.php">Topic 3</a></li>
+									</ul>
+								</li>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 3</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade4_topic_1_l3.php">Topic 1</a></li>
+										<li><a href="grade4_topic_2_l3.php">Topic 2</a></li>
+										<li><a href="grade4_topic_3_l3.php">Topic 3</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li class="submenu">
+							<a href="javascript:void(0);"> <span>Grade 5</span> <span class="menu-arrow"></span></a>
+							<ul>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 1</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade5_topic_1_l1.php">Topic 1</a></li>
+										<li><a href="grade5_topic_2_l1.php">Topic 2</a></li>
+										<li><a href="grade5_topic_3_l1.php">Topic 3</a></li>
+									</ul>
+								</li>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 2</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade5_topic_1_l2.php">Topic 1</a></li>
+										<li><a href="grade5_topic_2_l2.php">Topic 2</a></li>
+										<li><a href="grade5_topic_3_l2.php">Topic 3</a></li>
+									</ul>
+								</li>
+								<li class="submenu">
+									<a href="javascript:void(0);"> <span>Level 3</span> <span
+											class="menu-arrow"></span></a>
+									<ul>
+										<li><a href="grade5_topic_1_l3.php">Topic 1</a></li>
+										<li><a href="grade5_topic_2_l3.php">Topic 2</a></li>
+										<li><a href="grade5_topic_3_l3.php">Topic 3</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="resources.php"><i class="fas fa-file"></i> <span>Resource Center</span></a>
+				</li>
+				<li>
+					<a href="chatmodal.php"><i class="fas fa-building"></i> <span> Chat with US </span></a>
+				</li>
+				<li>
+					<a href="studentlist.php"><i class="fas fa-chalkboard-teacher"></i> <span>Student Data</span></a>
+				</li>
+
+				<head>
+					<script src="https://www.webglearth.com/v2/api.js"></script>
+					<script>
+						var earth;
+						function initialize() {
+							earth = new WE.map('earth_div');
+							earth.setView([46.8011, 8.2266], 3);
+							WE.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+								attribution: '<a href="https://www.openstreetmap.org/copyright"></a>'
+							}).addTo(earth);
+
+							// Start a simple rotation animation
+							var before = null;
+							requestAnimationFrame(function animate(now) {
+								var c = earth.getPosition();
+								var elapsed = before ? now - before : 0;
+								before = now;
+								earth.setCenter([c[0], c[1] + 0.1 * (elapsed / 60)]);
+								requestAnimationFrame(animate);
+							});
+						}
+					</script>
+					<style>
+						html,
+						body {
+							padding: 0;
+							margin: 0;
+							width: 100%;
+							height: 100% !important
+						}
+
+						#earth_div {
+							top: 10vh;
+							right: 0;
+							bottom: 10vh;
+							left: 0;
+							position: absolute;
+							overflow: visible;
+							width: 100%;
+							height: 100% !important;
+						}
+					</style>
+					<title>WebGL Earth API v2 examples: Rotating globe animation</title>
+					<meta name="description"
+						content="Free and open-source 3D digital globe for web and mobile devices. This example shows how to rotate the Earth in a beautiful animation.">
+				</head>
+
+				<body onload="initialize()">
+					<div id="earth_div"></div>
+				</body>
+			</ul>
+		</div>
+	</div>
+</div>
+<!-- /Sidebar -->
